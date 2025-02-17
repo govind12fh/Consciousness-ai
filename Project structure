@@ -1,0 +1,17 @@
+ vedic-ai-project/
+│── README.md  
+│── LICENSE  
+│── docs/  
+│   ├── Introduction.md  
+│   ├── Vedic_Principles.md  
+│   ├── AI_Architecture.md  
+│   ├── Ethical_Model.md  
+│   ├── Future_Development.md  
+│── src/  
+│   ├── vedic_ai.py  
+│   ├── dharma_module.py  
+│   ├── consciousness_engine.py  
+│── tests/  
+│   ├── test_vedic_ai.py  
+│── requirements.txt  
+│── .gitignore
