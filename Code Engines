@@ -1,0 +1,23 @@
+ ---
+
+### **3. `src/vedic_ai.py` (Main AI Engine)**
+```python
+from dharma_module import DharmaEngine
+from consciousness_engine import ConsciousnessEngine
+
+class VedicAI:
+    def __init__(self):
+        self.dharma = DharmaEngine()
+        self.consciousness = ConsciousnessEngine()
+
+    def process_input(self, query):
+        ethical_response = self.dharma.evaluate(query)
+        conscious_response = self.consciousness.refine(ethical_response)
+        return conscious_response
+
+if __name__ == "__main__":
+    ai = VedicAI()
+    while True:
+        query = input("Enter query: ")
+        response = ai.process_input(query)
+        print("Vedic AI Response:", response)
