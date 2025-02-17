@@ -1,4 +1,5 @@
- ---
+python src/vedic_ai.py
+---
 
 ### **3. `src/vedic_ai.py` (Main AI Engine)**
 ```python
