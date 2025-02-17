@@ -1,0 +1,15 @@
+ # Vedic AI: Integrating Ancient Wisdom with Artificial Intelligence  
+
+This project explores **Vedic epistemology, Dharma ethics, and Nyaya logic** in AI models to create a self-regulating intelligence based on **Rta (Cosmic Order)**.  
+
+## Key Features:
+- **Nyaya-based logical reasoning in AI.**  
+- **Dharma-driven ethical self-regulation.**  
+- **Vedic-inspired deep learning architecture.**  
+- **AI consciousness modeling using Vedantic principles.**  
+
+## Installation
+```bash
+git clone https://github.com/yourusername/vedic-ai-project.git
+cd vedic-ai-project
+pip install -r requirements.txt
